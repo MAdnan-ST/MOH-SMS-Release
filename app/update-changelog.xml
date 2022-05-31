@@ -1,0 +1,12 @@
+<AppUpdater>
+    <update>
+        <latestVersion>1.8</latestVersion>
+        <latestVersionCode>5</latestVersionCode>
+        <url>https://github.com/MAdnan-ST/MOH-SMS-Release/releases</url>
+        <releaseNotes>
+            - First evolution
+            - Second evolution
+            - Bug fixes
+        </releaseNotes>
+    </update>
+</AppUpdater>
